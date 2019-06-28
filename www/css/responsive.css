@@ -1,0 +1,1530 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*  Iphone 5 to Iphone6 portrait view  */
+
+/*@media only screen and (min-width: 320px) and (max-width: 480px) {
+.equpment .checkbox {
+	margin-right: 0;
+}
+.spots-item {
+	width: 31.6%;
+}
+.surprise {
+	bottom: 0px;
+	  /*  width: 173px!important;
+height: 35px; padding-top:6px;
+}*/
+
+
+/*popup buttons style*/
+.sports-popouter {
+    height: 517px !important;
+}
+
+.sports-popupok {
+    width: 100% !important;
+    z-index: 10000 !important;
+    bottom: 0;
+    height: auto;
+}
+
+.skill-popupouter {
+    height: 150px !important;
+}
+
+.skill-popupok {
+    width: 100% !important;
+    z-index: 10000;
+    bottom: 0;
+    height: auto;
+}
+
+
+.age-popupok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.age-popupouter {
+    height: 170px !important;
+}
+
+.gender-popupouter {
+    height: 92px !important;
+}
+
+.gender-popupok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.competitive-popupouter {
+    height: 92px !important;
+}
+
+.competitive-popupok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.games-popupouter {
+    height: 241px !important;
+}
+
+.games-popupok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.members-popupok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.members-popupouter {
+    height: 360px !important;
+}
+
+.init-sport {
+    height: 517px;
+}
+
+.init-sportok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+
+.init-player {
+    height: 360px;
+}
+
+.init-playerok {
+    width: 100% !important;
+    position: fixed;
+    top: 358px !important;
+    z-index: 10000;
+    margin-left: -17px;
+}
+
+.init-skills {
+    height: 150px !important;
+}
+
+.init-skillsok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.init-age {
+    height: 170px !important;
+}
+
+.init-ageok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+.init-gender {
+    height: 92px !important;
+}
+
+.init-genderok {
+    width: 100% !important;
+    bottom: 0;
+    height: auto;
+    z-index: 10000;
+}
+
+
+.surprise a {
+    font-size: 13px;
+    padding: 6px 0px 0px 26px;
+    font-weight: bold;
+}
+
+.logo-splash {
+    margin-top: 100px;
+}
+
+
+div#tabs-container {
+    margin-top: 95px;
+}
+
+.profile-head h2 {
+    font-size: 26px;
+}
+
+span.location-ico {
+    font-size: 18px;
+}
+
+.modal-dialog {
+    margin-top: 200px;
+}
+
+.new-user {
+    margin-top: 60px;
+}
+
+.filter-wall span {
+    right: 0;
+}
+
+.searching {
+    background: #25282d none repeat scroll 0 0;
+    bottom: 1px;
+    left: -145px;
+    position: absolute;
+    z-index: 999;
+}
+
+
+
+ /**************************************************New Media Vishnu**************************************************/ 
+/*@media only screen and (min-device-width: 411px) and (max-device-height: 960px) and (orientation : portrait){ 
+
+.sign-outer {
+    width: 80%;
+    margin: 0 auto;
+    display: table;
+    padding-top: 45px!important;
+}
+.form-group {
+    margin-bottom: 30px!important;
+}
+
+}*/
+@media only screen and (min-device-width: 411px) and (max-device-height: 960px) and (orientation : portrait) {
+    
+.form-group
+{
+    margin-bottom: 15px !important;
+}
+
+.logo-part {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 50px !important;
+}
+
+.password {
+    background-image: url(../images/icons/lock.png);
+    background-repeat: no-repeat;
+    background-position: left 12px;
+    padding-bottom: 35px !important;
+}
+
+.new-user {
+    margin-top: 190px !important;
+    margin-bottom: 0px !important;
+}
+
+
+
+.equpment .checkbox {
+    margin-right: 0;
+}
+
+.spots-item {
+    width: 31.6%;
+}
+
+.surprise {
+    bottom: 0px;
+    height: 35px;
+    padding-top: 6px;
+    padding-left: 22px;
+    text-align: center;
+    padding-top: 6px;
+    margin-left: 10px;
+}
+
+    .surprise a {
+        font-size: 13px;
+        padding: 6px 0px 0px 26px;
+        font-weight: bold;
+    }
+
+.logo-splash {
+    margin-top: 100px;
+}
+
+div#tabs-container {
+    margin-top: 80px;
+}
+
+.profile-head h2 {
+    font-size: 26px;
+}
+
+span.location-ico {
+    font-size: 18px;
+}
+
+.modal-dialog {
+    margin-top: 200px;
+}
+
+.new-user {
+    margin-top: 60px;
+}
+
+.filter-wall span {
+    right: 0;
+}
+
+.searching {
+    background: #25282d none repeat scroll 0 0;
+    bottom: 1px;
+    left: -145px;
+    position: absolute;
+    z-index: 999;
+}
+
+.modal-dialog1 {
+    margin: 20px 0 !important;
+    padding-bottom: 20px !important;
+    background-color: #0c1f22 !important;
+    min-height: 920px !important;
+}
+
+}
+
+@media only screen and (min-device-width: 411px) and (max-device-height: 731px) and (orientation : portrait) {
+
+    .form-group {
+        margin-bottom: 0px !important;
+    }
+
+    .logo-part {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .password {
+        background-image: url(../images/icons/lock.png);
+        background-repeat: no-repeat;
+        background-position: left 12px;
+        padding-bottom: 25px !important;
+    }
+
+    .new-user {
+        margin-top: 120px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .modal-dialog1 {
+        margin: 20px 0 !important;
+        padding-bottom: 20px !important;
+        background-color: #0c1f22 !important;
+        min-height: 690px !important;
+    }
+
+
+    .equpment .checkbox {
+        margin-right: 0;
+    }
+
+    .spots-item {
+        width: 31.6%;
+    }
+
+    .surprise {
+        bottom: 0px;
+        /*  width: 173px!important;*/
+        height: 35px;
+        padding-top: 6px;
+        padding-left: 22px;
+        text-align: center;
+        padding-top: 6px;
+        margin-left: 10px;
+    }
+
+        .surprise a {
+            font-size: 13px;
+            padding: 6px 0px 0px 26px;
+            font-weight: bold;
+        }
+
+    .logo-splash {
+        margin-top: 100px;
+    }
+
+    div#tabs-container {
+        margin-top: 80px;
+    }
+
+    .profile-head h2 {
+        font-size: 26px;
+    }
+
+    span.location-ico {
+        font-size: 18px;
+    }
+
+    .modal-dialog {
+        margin-top: 200px;
+    }
+
+    .new-user {
+        margin-top: 60px;
+    }
+
+    .filter-wall span {
+        right: 0;
+    }
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        bottom: 1px;
+        left: -145px;
+        position: absolute;
+        z-index: 999;
+    }
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3) {
+
+
+    .modal-dialog1 {
+        margin: 20px 0 !important;
+        padding-bottom: 20px !important;
+        background-color: #0c1f22 !important;
+        min-height: 600px !important;
+    }
+
+    .form-group {
+        margin-bottom: 0px !important;
+    }
+
+    .logo-part {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .password {
+        background-image: url(../images/icons/lock.png);
+        background-repeat: no-repeat;
+        background-position: left 12px;
+        padding-bottom: 25px !important;
+    }
+
+    .new-user {
+        margin-top: 120px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .equpment .checkbox {
+        margin-right: 0;
+    }
+
+    .spots-item {
+        width: 31.6%;
+    }
+
+    .surprise {
+      
+    bottom: 0px;
+    width: 137px!important;
+    height: 35px;
+    padding-top: 4px!important;
+    padding-left: 22px;
+    text-align: center;
+    margin-left: 19px;
+    top: -32px;
+    position: relative !important;
+ 
+    }
+
+        .surprise a {
+               font-size: 12px;
+    padding: 6px 0px 0px 19px;
+    font-weight: bold;
+        }
+
+    .new_initiate_01 {
+        position: absolute !important;
+        top: 120px !important;
+        right: 10px !important;
+        font-size: 13px !important;
+        padding-top: 0px !important;
+        font-family: 'source_sans_prolight' !important;
+    }
+
+
+    .logo-splash {
+        margin-top: 100px;
+    }
+
+    div#tabs-container {
+        margin-top: 80px;
+    }
+
+    .profile-head h2 {
+        font-size: 22px;
+    }
+
+    span.location-ico {
+        font-size: 18px;
+    }
+
+    .modal-dialog {
+        margin-top: 150px;
+    }
+
+    .modal-dialog1 {
+        margin: 20px 0;
+    }
+
+    .new-user {
+        margin-top: 60px;
+    }
+
+    .filter-wall span {
+        right: 9px;
+    }
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        bottom: 1px;
+        left: -145px;
+        position: absolute;
+        z-index: 999;
+    }
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2) {
+
+
+    .modal-dialog1 {
+        margin: 20px 0 !important;
+        padding-bottom: 20px !important;
+        background-color: #0c1f22 !important;
+        min-height: 600px !important;
+    }
+
+    .form-group {
+        margin-bottom: 0px !important;
+    }
+
+    .logo-part {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .password {
+        background-image: url(../images/icons/lock.png);
+        background-repeat: no-repeat;
+        background-position: left 12px;
+        padding-bottom: 25px !important;
+    }
+
+    .new-user {
+        margin-top: 120px !important;
+        margin-bottom: 0px !important;
+    }
+
+
+    .equpment .checkbox {
+        margin-right: 0;
+    }
+
+    .spots-item {
+        width: 31.6%;
+    }
+
+    .surprise {
+            bottom: 0px;
+    width: 135px!important;
+    height: 35px;
+    padding-top: 6px;
+    }
+ .surprise_ch {
+    bottom: 0px!important;
+    width: 155px!important;
+    height: 35px!important;
+    padding-left: 10px!important;
+    padding-top: 10px!important;
+}
+.surprise_ch_pc {
+    bottom: 0px!important;
+    width: 155px!important;
+    height: 35px!important;
+    padding-left: 40px!important;
+    padding-top: 10px!important;
+}
+
+        .surprise a {
+            font-size: 12px;
+    padding: 2px 0px 0px 16px;
+    font-weight: bold;
+    margin-left: 25px;
+        }
+
+    .new_initiate_01 {
+           position: absolute !important;
+    top: 120px !important;
+    right: 28px !important;
+    font-size: 13px !important;
+    padding-top: 7px !important;
+    font-family: 'source_sans_prolight' !important;
+    }
+
+
+    .logo-splash {
+        margin-top: 100px;
+    }
+
+    div#tabs-container {
+        margin-top: 80px;
+    }
+
+    .profile-head h2 {
+        font-size: 26px;
+    }
+
+    span.location-ico {
+        font-size: 18px;
+    }
+
+    .modal-dialog {
+        margin-top: 200px;
+    }
+
+    .new-user {
+        margin-top: 60px;
+    }
+
+    .filter-wall span {
+        right: 0;
+    }
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        bottom: 1px;
+        left: -145px;
+        position: absolute;
+        z-index: 999;
+    }
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-height : 568px) {
+
+
+    .modal-dialog1 {
+        margin: 20px 0 !important;
+        padding-bottom: 20px !important;
+        background-color: #0c1f22 !important;
+        min-height: 528px !important;
+    }
+
+    .form-group {
+        margin-bottom: 0px !important;
+    }
+
+    .logo-part {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .password {
+        background-image: url(../images/icons/lock.png);
+        background-repeat: no-repeat;
+        background-position: left 12px;
+        padding-bottom: 25px !important;
+    }
+
+    .new-user {
+        margin-top: 120px !important;
+        margin-bottom: 0px !important;
+    }
+
+
+
+    .equpment .checkbox {
+        margin-right: 0;
+    }
+
+    .spots-item {
+        width: 31.6%;
+    }
+
+    .surprise {
+        bottom: 0px;
+        /*  width: 173px!important;*/
+        height: 35px;
+        padding-top: 6px;
+        padding-left: 22px;
+        text-align: center;
+        padding-top: 6px;
+        margin-left: 10px;
+    }
+
+        .surprise a {
+            font-size: 13px;
+            padding: 6px 0px 0px 26px;
+            font-weight: bold;
+        }
+
+    .logo-splash {
+        margin-top: 100px;
+    }
+
+    div#tabs-container {
+        margin-top: 80px;
+    }
+
+    .profile-head h2 {
+        font-size: 26px;
+    }
+
+    span.location-ico {
+        font-size: 18px;
+    }
+
+    .modal-dialog {
+        margin-top: 200px;
+    }
+
+    .new-user {
+        margin-top: 60px;
+    }
+
+    .filter-wall span {
+        right: 0;
+    }
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        bottom: 1px;
+        left: -145px;
+        position: absolute;
+        z-index: 999;
+    }
+}
+
+
+
+
+
+@media only screen and (min-device-width : 320px) and (max-device-height : 480px) {
+
+
+    .modal-dialog1 {
+        margin: 20px 0 !important;
+        padding-bottom: 20px !important;
+        background-color: #0c1f22 !important;
+        min-height: 440px !important;
+    }
+
+    .form-group {
+        margin-bottom: 0px !important;
+    }
+
+    .logo-part {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .password {
+        background-image: url(../images/icons/lock.png);
+        background-repeat: no-repeat;
+        background-position: left 12px;
+        padding-bottom: 25px !important;
+    }
+
+    .new-user {
+        margin-top: 120px !important;
+        margin-bottom: 0px !important;
+    }
+
+
+
+    .equpment .checkbox {
+        margin-right: 0;
+    }
+
+    .spots-item {
+        width: 31.6%;
+    }
+
+    .surprise {
+        bottom: 0px;
+        /*  width: 173px!important;*/
+        height: 35px;
+        padding-top: 6px;
+    }
+
+        .surprise a {
+            font-size: 13px;
+            padding: 6px 0px 0px 26px;
+            font-weight: bold;
+        }
+
+    .logo-splash {
+        margin-top: 100px;
+    }
+
+    div#tabs-container {
+        margin-top: 80px;
+    }
+
+    .profile-head h2 {
+        font-size: 26px;
+    }
+
+    span.location-ico {
+        font-size: 18px;
+    }
+
+    .modal-dialog {
+        margin-top: 200px;
+    }
+
+    .new-user {
+        margin-top: 60px;
+    }
+
+    .filter-wall span {
+        right: 0;
+    }
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        bottom: 1px;
+        left: -145px;
+        position: absolute;
+        z-index: 999;
+    }
+}
+
+
+@media only screen and (min-device-width: 411px) and (max-device-height: 960px) and (orientation : portrait) {
+
+    .modal-dialog1 {
+        margin: 20px 0 !important;
+        padding-bottom: 20px !important;
+        background-color: #0c1f22 !important;
+        min-height: 920px !important;
+    }
+
+    .form-group {
+        margin-bottom: 25px !important;
+    }
+
+    .logo-part {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 60px !important;
+        margin-top: 90px;
+    }
+
+    .password {
+        background-image: url(../images/icons/lock.png);
+        background-repeat: no-repeat;
+        background-position: left 12px;
+        padding-bottom: 35px !important;
+    }
+
+    .new-user {
+        margin-top: 250px !important;
+        margin-bottom: 0px !important;
+    }
+
+
+
+    .equpment .checkbox {
+        margin-right: 0;
+    }
+
+    .spots-item {
+        width: 31.6%;
+    }
+
+    .surprise {
+        bottom: 0px;
+        /*  width: 173px!important;*/
+        height: 35px;
+        padding-top: 6px;
+        margin-left: 48px;
+        padding-right: 10px;
+        text-align: center;
+        top: 124px;
+        position: fixed !important;
+        padding-top: 0px;
+    }
+
+        .surprise a {
+            font-size: 13px;
+            padding: 6px 0px 0px 26px;
+            font-weight: bold;
+        }
+
+    .new_initiate_01 {
+        position: absolute !important;
+        top: 120px !important;
+        right: 20px !important;
+        font-size: 13px !important;
+        padding-top: 0px !important;
+        font-family: 'source_sans_prolight' !important;
+    }
+
+
+    .logo-splash {
+        margin-top: 100px;
+    }
+
+    div#tabs-container {
+        margin-top: 80px;
+    }
+
+    .profile-head h2 {
+        font-size: 26px;
+    }
+
+    span.location-ico {
+        font-size: 18px;
+    }
+
+    .modal-dialog {
+        margin-top: 200px;
+    }
+    /*.new-user {
+	margin-top: 60px;
+}*/
+    .filter-wall span {
+        right: 0;
+    }
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        bottom: 1px;
+        left: -145px;
+        position: absolute;
+        z-index: 999;
+    }
+}
+
+
+@media only screen and (min-device-width: 412px) and (max-device-height: 732px) and (orientation : portrait) {
+
+    .surprise a {
+    font-size: 13px;
+    padding: 6px 0px 0px 10px;
+    font-weight: bold;
+}
+}
+
+
+
+/***************************************************New Media Vishnu**************************************************/
+/*  Iphone 5 to Iphone6 Lanscape view  */
+/*@media only screen and (min-width: 481px) and (max-width: 767px) {
+	
+	
+	
+	
+	
+	
+	.searching {
+    background: #25282d none repeat scroll 0 0;
+    left: -226px;  }
+	
+	
+.searching input {
+	background: #25282D url("../images/search.png") no-repeat scroll 86% center;
+}
+.surprise {
+	bottom: 0px;
+    margin-left: 32px;
+	width: 230px;
+	height: 40px;
+}
+.surprise a {
+    font-size: 13px;
+        padding: 6px 0px 0px 26px;
+    font-weight: bold;
+}
+.searching {
+	background: #25282d none repeat scroll 0 0;
+	bottom: 1px;
+	position: absolute;
+	z-index: 999;
+}
+.filter-wall span {
+	right: 25px;
+}
+.logo-splash {
+	margin-top: 53px;
+	width: 200px;
+}
+.logo-splash img {
+	width: 100%;
+}
+.sign-outer {
+	width: 95%;
+}
+    
+    
+
+    
+.user {
+	width: 100%;
+	float: left;
+	margin-right: 30px;
+}
+.password {
+	width: 100%;
+	float: left;
+}
+.sign-outer .btn {
+	width: 100%;
+	float: left;
+}
+.divider-or {
+	float: left;
+	width: 100%;
+}
+.logo-part {
+	width: 21%;
+	margin: auto;
+	display: table;
+	float: none;
+}
+.logo-part img {
+	width: 100%;
+}
+.logo-part p {
+	font-size: 11px;
+    width: 100%;
+}
+.new-user {
+	margin-top: 20px;
+}
+.started {
+	position: relative;
+}
+.modal-dialog {
+	width: 496px;
+	margin: 0 auto;
+	margin-top: 31px;
+}
+.chalange {
+	left: 21%;
+}
+}*/
+/* For portrait layouts only */
+@media (min-width: 768px) and (max-width: 991px) {
+    .searching;
+
+{
+    background: #25282d none repeat scroll 0 0;
+    left: -227px;
+    z-index: 999;
+    bottom: 0;
+}
+
+.searching input {
+    background-position: 87% center;
+}
+
+.profile-progress-2 nav {
+    margin: -18% auto 30px !important;
+}
+
+.port-wrapper .profile-progress nav {
+    margin: -16% auto 30px !important;
+}
+
+.banner {
+    height: 265px;
+    width: 100%;
+}
+
+.profile-head {
+    width: 100%;
+    float: left;
+    height: 186px;
+    top: 79px;
+}
+
+.logo-splash {
+    margin-top: 300px;
+    width: 440px;
+}
+
+.sign-up {
+    padding: 160px 0;
+}
+
+.started {
+    position: absolute;
+    height: 100%;
+}
+
+    .started h2 {
+        padding: 65px 0;
+        font-size: 56px;
+    }
+
+.rating-container .star {
+    font-size: 30px !important;
+}
+
+.item-tittle h2 {
+    font-size: 35px;
+}
+
+.location-wall {
+    height: 72px;
+    font-size: 30px;
+}
+
+.filter-wall {
+    height: 72px;
+}
+
+.chalange-outer {
+    height: 100%;
+}
+
+.searching input {
+    background: #25282D url("../images/search.png") no-repeat scroll 89% center;
+}
+
+}
+
+
+/* For landscape layouts only */
+@media (min-width: 991px) and (max-width: 1030px) {
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        left: -227px;
+        z-index: 999;
+        bottom: 0;
+    }
+
+        .searching input {
+            background-position: 87% center;
+        }
+
+    .profile-progress-2 nav {
+        margin: -15% auto 30px !important;
+        .banner;
+
+{
+    height: 265px;
+    width: 100%;
+}
+
+.profile-head {
+    width: 100%;
+    float: left;
+    height: 186px;
+    top: 79px;
+}
+
+.splash {
+    width: 100%;
+}
+
+.logo-splash {
+    margin-top: 167px;
+    width: 460px;
+}
+
+.sign-up {
+    padding: 50px 0;
+}
+
+.started {
+    position: absolute;
+}
+
+.rating-container .star {
+    font-size: 40px !important;
+}
+
+.item-tittle h2 {
+    font-size: 38px;
+}
+
+.location-wall {
+    height: 72px;
+    font-size: 30px;
+}
+
+.filter-wall {
+    height: 72px;
+}
+
+.profile-progress nav {
+    margin: -27% auto 30px !important;
+}
+
+.searching input {
+    background: #25282D url("../images/search.png") no-repeat scroll 89% center;
+}
+
+}
+
+@media only screen and (max-width : 1024px) {
+    .wrapper {
+        width: 100%;
+        float: left;
+        display: table;
+        background: #095f5a;
+        height: 100%;
+        position: relative;
+        background-size: cover;
+        background-repeat: no-repeat;
+        overflow: hidden;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .logo-splash img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width : 768px) {
+    .sign-up {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .splash {
+        width: 100%;
+    }
+
+    .wrapper {
+        width: 100%;
+    }
+
+    .started {
+        width: 100%;
+    }
+
+    .company-profile {
+        width: 100%;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .chalange {
+        left: 30%;
+    }
+}
+
+@media only screen and (max-width : 740px) {
+    .new-user {
+    }
+
+    .sign-up {
+        height: 740px;
+    }
+}
+
+@media only screen and (max-width : 360px) {
+    .chalange {
+        left: 13%;
+    }
+
+    .rating-container .star {
+        font-size: 17px !important;
+    }
+
+    .circle-nicelabel + label {
+        width: 40px;
+    }
+
+    .circle-btn {
+        left: 20px;
+    }
+
+    .left label {
+        font-size: 14px;
+    }
+
+    .right label {
+        font-size: 14px;
+    }
+
+    .pro-image {
+        left: 34%;
+    }
+
+    .switch-model .circle-nicelabel + label {
+        width: 78px;
+    }
+
+    .getting-model-outer .circle-btn {
+        left: 55px;
+    }
+
+    .item-tittle h2 {
+        font-size: 20px;
+    }
+
+    .item-tittle h3 {
+        font-size: 15px;
+    }
+
+    .team-members {
+        width: 35px;
+        height: 35px;
+        margin-right: 5px;
+    }
+
+    .location-wall {
+        width: 57%;
+    }
+
+    .filter-wall button {
+        width: 57px;
+    }
+
+    .item-tittle {
+        width: 70%;
+    }
+
+    .right-2 {
+        width: 30%;
+    }
+
+    .profile-head h2 {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width : 380px) {
+    .profile-head h2 {
+        font-size: 23px;
+    }
+
+    .rating-container .star {
+        font-size: 16px !important;
+    }
+
+    .gameprofile .like-join a img {
+        width: 100%;
+    }
+
+    .gameprofile h2 {
+        font-size: 20px;
+    }
+
+    .search input {
+        font-size: 13px;
+    }
+
+    .add {
+        top: 30px;
+    }
+
+    .new-user a {
+        font-size: 14px;
+    }
+
+    .sign-up {
+        height: 650px !important;
+    }
+
+    .new-user {
+        /*position:absolute;*/
+    }
+
+    span.location-ico {
+        font-size: 14px;
+    }
+
+    .profile-head h2 {
+        font-size: 22px;
+    }
+
+    .banner-right-top {
+        right: 0;
+    }
+}
+
+@media only screen and (max-width : 568px) {
+
+    .searching {
+        background: #25282d none repeat scroll 0 0;
+        left: -207px !important;
+    }
+
+    .password {
+        margin-bottom: 28px;
+    }
+}
+
+@media only screen and (max-width : 330px) {
+    .star {
+        font-size: 11px !important;
+    }
+
+    .surprise {
+        bottom: -4px;
+        width: 147px;
+    }
+
+        .surprise a {
+            font-size: 12px;
+        }
+
+    .logo-part {
+        width: 61%;
+        margin: 0 auto;
+        display: table;
+        float: none;
+    }
+
+    .new-user a {
+        font-size: 12px;
+    }
+
+    .profile-progress nav {
+        margin-top: -31% !important;
+    }
+
+    .logo-part p {
+        font-size: 14px;
+    }
+
+    .new-user {
+        margin-top: 42px;
+    }
+
+    .gameprofile .share-btn {
+        width: 68px;
+    }
+
+        .gameprofile .share-btn a img {
+            width: 100%;
+        }
+
+    .circle-nicelabel + label {
+        width: 40px;
+    }
+
+    .circle-btn {
+        left: 20px;
+    }
+
+    .date-birth select {
+        background-position: 55px center;
+    }
+
+    .add-profile {
+        width: 60px;
+        height: 60px;
+    }
+
+    .add-sports .add-profile img {
+        margin-top: 5px;
+    }
+
+    .tabs-menu li a {
+        width: 90px;
+        height: 90px;
+        font-size: 14px;
+    }
+
+    .search input {
+        font-size: 12px;
+    }
+
+    .rating-container .star {
+        font-size: 12px !important;
+    }
+
+    .date-birth .col-xs-4 {
+        padding-right: 5px;
+    }
+
+    .started-out {
+        padding: 20px 10px;
+    }
+
+    .profile-head h2 {
+        font-size: 17px;
+    }
+
+    .bottom-bar .col-xs-2 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .chalange {
+        left: 1%;
+    }
+}
+
+
+
+/*iPhone 6 Portrait*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
+    .new-user {
+        margin-top: 101px;
+    }
+
+    .chalange {
+        left: 21%;
+    }
+}
+
+/*iPhone 6 landscape*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : landscape) {
+}
+
+
+
+/*iPhone 6+ Portrait*/
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : portrait) {
+    .new-user {
+        margin-top: 154px;
+    }
+}
+
+/*iPhone 6+ landscape*/
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : landscape) {
+}
